@@ -8,6 +8,13 @@
 
 # 已经打包成 exe安装文件，请到release 页面下载。
 
+百度云盘地址：
+
+链接：https://pan.baidu.com/s/1euEojtwQOcexArPup7zsdA 
+提取码：7lan 
+
+
+
 <img width="524" alt="image" src="https://github.com/shushuolaoa/flybird_ths_trader/assets/134842596/44784392-e0ef-49f1-9dc6-3112d8369092">
 
 
